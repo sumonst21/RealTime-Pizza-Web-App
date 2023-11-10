@@ -15,7 +15,7 @@
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@stripe/stripe-js": "^1.10.0",
-    "axios": "^0.19.2",
+    "axios": "^1.6.0",
     "bcrypt": "^5.0.0",
     "connect-mongo": "^4.4.1",
     "cross-env": "^7.0.2",
